@@ -1,0 +1,19 @@
+
+.brand{
+     height: 70px;
+     width: 120px;
+    padding: 20px;
+}
+.img{
+    margin: 0;
+    padding: 0;
+    max-width:100%;
+    width: 400px;
+    height: auto;
+    object-fit:cover;
+}
+.card{
+    border-radius: 5px;
+    padding: 0px;
+    margin: auto;
+}
